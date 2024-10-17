@@ -28,7 +28,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/banner.png
     - assets/pokemon.json
     - assets/pokemon_sprites.json
 
